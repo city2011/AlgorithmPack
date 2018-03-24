@@ -1,6 +1,6 @@
 package test;
 import org.junit.jupiter.api.Test;
-import main.Spfa;
+import SPP.Spfa;
 
 public class TestSpfa {
     Spfa spfa = new Spfa();
